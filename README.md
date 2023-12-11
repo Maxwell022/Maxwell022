@@ -19,3 +19,7 @@ Sou um desenvolvedor front-end Python intermediario, atuando como web developer,
 ### 3. Versonador:
 
 ![GitHub logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 4. GitHub Stats:
+
+![stats](https://github-readme-stats.vercel.app/api?username={Maxwell022}&theme=blue-green)
