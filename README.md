@@ -22,4 +22,4 @@ Sou um desenvolvedor front-end Python intermediario, atuando como web developer,
 
 ### 4. GitHub Stats:
 
-![stats](https://github-readme-stats.vercel.app/api?username=Maxwell022&theme=yellow-green)
+![stats](https://github-readme-stats.vercel.app/api?username=Maxwell022&theme=blue-green)
