@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 
-Sou um desenvolvedor front-end Python intermediario, atuando como web developer, tenho habilidades técnicas sólida em linguagens como HTML5, CSS3 E JavaScript. Além disso, tenho habilidades em Bootstrap framework, Visual Studio Code e sistemas de controle de versão, como   GitHub. Além disso, sou hábil na resolução de problemas, assim como capacidade em trabalhar em equipe e colaborar efetivamente com outros membros
+Sou um desenvolvedor fullstack Python intermediario, atuando como web developer, tenho habilidades técnicas sólida em linguagens como HTML5, CSS3 E JavaScript. Além disso, tenho habilidades em Bootstrap framework, Visual Studio Code e sistemas de controle de versão, como   GitHub. Além disso, sou hábil na resolução de problemas, assim como capacidade em trabalhar em equipe e colaborar efetivamente com outros membros
 
 ## 🚀Skills:
 
